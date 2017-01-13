@@ -1,0 +1,12 @@
+c:\users\vvicente\documents\visual studio 2015\Projects\ConsoleApplication6\ConsoleApplication6\bin\Debug\ConsoleApplication6.exe.config
+c:\users\vvicente\documents\visual studio 2015\Projects\ConsoleApplication6\ConsoleApplication6\obj\Debug\ConsoleApplication6.csprojResolveAssemblyReference.cache
+c:\users\vvicente\documents\visual studio 2015\Projects\ConsoleApplication6\ConsoleApplication6\bin\Debug\ConsoleApplication6.exe
+c:\users\vvicente\documents\visual studio 2015\Projects\ConsoleApplication6\ConsoleApplication6\bin\Debug\ConsoleApplication6.pdb
+c:\users\vvicente\documents\visual studio 2015\Projects\ConsoleApplication6\ConsoleApplication6\bin\Debug\EntityFramework.dll
+c:\users\vvicente\documents\visual studio 2015\Projects\ConsoleApplication6\ConsoleApplication6\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\vvicente\documents\visual studio 2015\Projects\ConsoleApplication6\ConsoleApplication6\bin\Debug\EntityFramework.xml
+c:\users\vvicente\documents\visual studio 2015\Projects\ConsoleApplication6\ConsoleApplication6\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\vvicente\documents\visual studio 2015\Projects\ConsoleApplication6\ConsoleApplication6\obj\Debug\ConsoleApplication6.exe
+c:\users\vvicente\documents\visual studio 2015\Projects\ConsoleApplication6\ConsoleApplication6\obj\Debug\ConsoleApplication6.pdb
+C:\Users\vvicente\Documents\Visual Studio 2015\Projects\ConsoleApplication6\ConsoleApplication6\bin\Debug\nunit.framework.dll
+C:\Users\vvicente\Documents\Visual Studio 2015\Projects\ConsoleApplication6\ConsoleApplication6\bin\Debug\nunit.framework.xml
