@@ -16,7 +16,7 @@ namespace ConsoleApplication6 {
         [Test]
         public void CreateAlbum()
         {
-            Album ab = new Album();
+            //Album ab = new Album();
             try
             {
                 Assert.AreEqual(111, ab.AlbumId);
@@ -26,7 +26,7 @@ namespace ConsoleApplication6 {
             {
             }
 
-            }
+        }
 
         [Test]
         public void CheckPrice()
@@ -35,9 +35,11 @@ namespace ConsoleApplication6 {
             {
                 Album ab = new ConsoleApplication6.Album();
             }
-            catch (Exception) { }
+            catch (Exception)
+            {
+                
+            }
             Assert.True(3 < ab.Price);
-        }
         }
     }
 }
