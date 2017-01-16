@@ -44,7 +44,7 @@ namespace ConsoleApplication6 {
         [Test]
         public void ApplyFee()
         {
-            Assert.True(5 < 6);
+            Assert.True(5 > 6);
         }
     }
 }
