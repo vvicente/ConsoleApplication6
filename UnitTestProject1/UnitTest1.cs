@@ -14,7 +14,7 @@ namespace ConsoleApplication6 {
         }
 
         [Test]
-        public void CreateAlbum()
+        public void UpdatePrice()
         {
             //Album ab = new Album();
             try
@@ -40,6 +40,11 @@ namespace ConsoleApplication6 {
                 
             }
             Assert.True(3 < ab.Price);
+        }
+        [Test]
+        public void ApplyFee()
+        {
+            Assert.True(5 < 6);
         }
     }
 }
